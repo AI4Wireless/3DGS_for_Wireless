@@ -4,7 +4,7 @@ Wireless channels exhibit complex spatial variations determined by the surroundi
 
 
 Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ).
-If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](zhangjinya@seu.edu.cn).
+If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](mailto:zhangjinya@seu.edu.cn).
 
 
 - **[CORF-GS](https://arxiv.org/abs/2607.25569)** (Jul. 2026): Real-time coupled optical-RF radiance-field reconstruction  
