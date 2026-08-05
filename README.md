@@ -2,7 +2,7 @@
 
 A collection of paper on 3DGS for wireless communications.  
 
-Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), .
+Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
 
 
