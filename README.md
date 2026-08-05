@@ -1,5 +1,11 @@
 # 3DGS for Wireless Communications
 
+A collection of paper on 3DGS for wireless communications.  
+
+Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), Jinya Zhang, Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ), .
+If there are any omissions in the collection of the papers, please feel free to contact Jiajia Guo.
+
+
 - **[CORF-GS](https://arxiv.org/abs/2607.25569)** (Jul. 2026): Real-time coupled optical-RF radiance-field reconstruction  
   Paper Title: CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting  
   Paper Authors: Jinya Zhang, Jiajia Guo, Chao-Kai Wen, Shi Jin
