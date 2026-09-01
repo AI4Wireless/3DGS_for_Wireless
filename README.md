@@ -7,10 +7,10 @@ Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang]
 If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](mailto:zhangjinya@seu.edu.cn).
 
 
-- **[GSBF](https://arxiv.org/abs/2608.05896)** (Aug. 2026): Learn a persistent electromagnetic scene representation with 3DGS and directly synthesize beamformers from AP-UE geometry without requiring online instantaneous CSI
-  Paper Title: GSBF: Gaussian Splatting for Environment-Aware Beamforming
+- **[GSBF](https://arxiv.org/abs/2608.05896)** (Aug. 2026): Learn a persistent electromagnetic scene representation with 3DGS and directly synthesize beamformers from AP-UE geometry without requiring online instantaneous CSI  
+  Paper Title: GSBF: Gaussian Splatting for Environment-Aware Beamforming  
   Paper Authors: Yijie Bian, Wei Guo, Zixin Wang, Shenghui Song, Jun Zhang, Khaled B. Letaief
-  
+
 - **[CORF-GS](https://arxiv.org/abs/2607.25569)** (Jul. 2026): Real-time coupled optical-RF radiance-field reconstruction  
   Paper Title: CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting  
   Paper Authors: Jinya Zhang, Jiajia Guo, Chao-Kai Wen, Shi Jin
@@ -19,16 +19,16 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Title: Construction and Dynamic Update of Channel Gain Maps via 3D Gaussian Splatting  
   Paper Authors: Yilong Chen, Yuan Guo, Juncong Zhou, Jie Xu, Rui Zhang
 
-- **[HybridSim](https://arxiv.org/abs/2607.15806)** (Jul. 2026): Synthesize mmWave radar signals for dynamic human sensing by decoupling propagation into direct and indirect paths, modeled by inverse rendering and 3DGS, respectively
-  Paper Title: HybridSim: A Physics–Learning Hybrid Digital Twin for mmWave Human Sensing
+- **[HybridSim](https://arxiv.org/abs/2607.15806)** (Jul. 2026): Synthesize mmWave radar signals for dynamic human sensing by decoupling propagation into direct and indirect paths, modeled by inverse rendering and 3DGS, respectively  
+  Paper Title: HybridSim: A Physics–Learning Hybrid Digital Twin for mmWave Human Sensing  
   Paper Authors: Weitao Xiong, Tianyu Liu, Peng Li, Kok Chung Chua, Toa Chean Khim, Pu Wang, Hongfei Xue
 
 - **[BeamMix](https://dl.acm.org/doi/10.1145/3745756.3809247)** (Jun. 2026): Element-space channel modeling with Gaussian mixture-of-experts  
   Paper Title: BeamMix: 3D Gaussian Mixture-of-Experts for Element-Space Wireless Channel Modeling  
   Paper Authors: William Bjorndahl, Joseph Camp
 
-- **[TeRFS](https://arxiv.org/abs/2605.02359)** (May 2026): Explicitly model multipath evolution via temporal envelopes of Gaussian directional lobes
-  Paper Title: TeRFS: Temporal-Evolving Radio Field Synthesis
+- **[TeRFS](https://arxiv.org/abs/2605.02359)** (May 2026): Explicitly model multipath evolution via temporal envelopes of Gaussian directional lobes  
+  Paper Title: TeRFS: Temporal-Evolving Radio Field Synthesis  
   Paper Author: Pengyang Zhang, Wenlihan Lu, Shijian Gao
   
 - **[PC-TGS](https://ieeexplore.ieee.org/document/11540378)** (May 2026): LiDAR-assisted APS extrapolation at unmeasured outdoor grids  
