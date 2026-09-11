@@ -6,6 +6,9 @@ Wireless channels exhibit complex spatial variations determined by the surroundi
 Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](mailto:zhangjinya@seu.edu.cn).
 
+- **[RadioSight](https://arxiv.org/abs/2608.29504)** (Aug. 2026): A real-time multi-modal radio field system for predictive mmWave optimization and proactive Multi-User MIMO beamforming, validated on a real-world 28 GHz testbed  
+  Paper Title: RadioSight: Predictive mmWave XR Network Optimization from Dynamic Neural Radio Fields  
+  Paper Authors: Lihao Zhang, Paul Kudyba, Zhenlin An, Haijian Sun
 
 - **[GSBF](https://arxiv.org/abs/2608.05896)** (Aug. 2026): Learn a persistent electromagnetic scene representation with 3DGS and directly synthesize beamformers from AP-UE geometry without requiring online instantaneous CSI  
   Paper Title: GSBF: Gaussian Splatting for Environment-Aware Beamforming  
