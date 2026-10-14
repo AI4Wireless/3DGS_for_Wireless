@@ -6,6 +6,14 @@ Wireless channels exhibit complex spatial variations determined by the surroundi
 Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](mailto:zhangjinya@seu.edu.cn).
 
+- **[MAD-RM](https://ieeexplore.ieee.org/abstract/document/11712000)** (Oct. 2026): MAD-RM constructs a dynamic radio map by learning the time-varying WRF from the transmitter-receiver geometry and the spatio-temporal context  
+  Paper Title: Multipath-Aware 3D Dynamic Radio Map Construction via Gaussian Splatting  
+  Paper Authors: Huishan Zhang, Kequan Zhou, Shengli Liu, Yunlong Cai, Guanding Yu
+
+- **[WRF-RAIN](https://dl.acm.org/doi/10.1145/3832013)** (Sept. 2026): A generic and effective framework capable of reconstructing robust wireless radiation fields from imperfect, low-quality input data  
+  Paper Title: Wireless Radiation Field Reconstruction with Random Initialized 3D Gaussians  
+  Paper Authors: Zezhou Yao, Chunhui Duan, Ruoxing Wang, Fan Li
+  
 - **[RadioSight](https://arxiv.org/abs/2608.29504)** (Aug. 2026): A real-time multi-modal radio field system for predictive mmWave optimization and proactive Multi-User MIMO beamforming, validated on a real-world 28 GHz testbed  
   Paper Title: RadioSight: Predictive mmWave XR Network Optimization from Dynamic Neural Radio Fields  
   Paper Authors: Lihao Zhang, Paul Kudyba, Zhenlin An, Haijian Sun
