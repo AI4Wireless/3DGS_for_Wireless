@@ -1,15 +1,23 @@
 # 3DGS for Wireless Communications
 
-Wireless channels exhibit complex spatial variations determined by the surrounding environment. By representing the environment with explicit Gaussian primitives carrying geometric and radio attributes, 3DGS provides a promising approach to reconstructing, predicting, and updating spatial wireless channels. This repository collects recent studies on 3DGS for wireless communications.
+A collection of paper on 3DGS for wireless communications, extended from the overview paper by [Jinya Zhang, Jiajia Guo, Chao-Kai Wen, and Shi Jin.](https://arxiv.org/abs/2611.01122)
 
+Wireless channels exhibit complex spatial variations determined by the surrounding environment. By representing the environment with explicit Gaussian primitives carrying geometric and radio attributes, 3DGS provides a promising approach to reconstructing, predicting, and updating spatial wireless channels.
 
 Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](mailto:zhangjinya@seu.edu.cn).
 
+## Table of Contents
+- [Overview](#overview)
+- [Research Papers](#research-papers)
+
+
+## Overview
 - **[3DGS for Wireless Environment Representation](https://arxiv.org/abs/2611.01122)** (Oct. 2026): An overview of 3DGS as a new paradigm for wireless environment representation  
   Paper Title: 3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation  
   Paper Authors: Jinya Zhang, Jiajia Guo, Chao-Kai Wen, Shi Jin
 
+## Research Papers
 - **[XBandGS](https://dl.acm.org/doi/abs/10.1145/3795866.3844449)** (Oct. 2026): A unified cross-band RF radiance field modeling framework built on 3DGS  
   Paper Title: Cross-Band RF Radiance Field Modeling via 3D Gaussian Splatting and Propagation Mixture-of-Experts  
   Paper Authors: Zechen Li, Hao Pan, Yu Lu, Yiheng Bian, Yongjian Fu, Yezhou Wang, Lanqing Yang, Guangtao Xue
