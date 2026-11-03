@@ -6,9 +6,12 @@ Wireless channels exhibit complex spatial variations determined by the surroundi
 Contributors：[Jiajia Guo](https://ece.hkust.edu.hk/eejiajiaguo), [Jinya Zhang](https://ieeexplore.ieee.org/author/37540266300), [Yumeng Zhang](https://scholar.google.com/citations?user=ueArr5YAAAAJ), Chunyu Ling, and [Yiming Cui](https://scholar.google.com/citations?hl=zh-CN&user=ZaKiYC8AAAAJ).
 If there are any omissions in the collection of the papers, please feel free to contact [Jinya Zhang](mailto:zhangjinya@seu.edu.cn).
 
+- **[3DGS for Wireless Environment Representation](https://arxiv.org/abs/2611.01122)** (Oct. 2026): An overview of 3DGS as a new paradigm for wireless environment representation  
+  Paper Title: 3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation  
+  Paper Authors: Jinya Zhang, Jiajia Guo, Chao-Kai Wen, Shi Jin
 
-- **[XBandGS](https://dl.acm.org/doi/abs/10.1145/3795866.3844449)** (Oct. 2026): a unified cross-band RF radiance field modeling framework built on 3DGS
-  Paper Title: Cross-Band RF Radiance Field Modeling via 3D Gaussian Splatting and Propagation Mixture-of-Experts
+- **[XBandGS](https://dl.acm.org/doi/abs/10.1145/3795866.3844449)** (Oct. 2026): A unified cross-band RF radiance field modeling framework built on 3DGS  
+  Paper Title: Cross-Band RF Radiance Field Modeling via 3D Gaussian Splatting and Propagation Mixture-of-Experts  
   Paper Authors: Zechen Li, Hao Pan, Yu Lu, Yiheng Bian, Yongjian Fu, Yezhou Wang, Lanqing Yang, Guangtao Xue
   
 - **[MAD-RM](https://ieeexplore.ieee.org/abstract/document/11712000)** (Oct. 2026): MAD-RM constructs a dynamic radio map by learning the time-varying WRF from the transmitter-receiver geometry and the spatio-temporal context  
