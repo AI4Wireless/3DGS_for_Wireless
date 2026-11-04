@@ -1,6 +1,6 @@
 # 3DGS for Wireless Communications
 
-A collection of paper on 3DGS for wireless communications, extended from the overview paper by [Jinya Zhang, Jiajia Guo, Chao-Kai Wen, and Shi Jin.](https://arxiv.org/abs/2611.01122)
+**A collection of paper on 3DGS for wireless communications, extended from the overview paper by [Jinya Zhang, Jiajia Guo, Chao-Kai Wen, and Shi Jin.](https://arxiv.org/abs/2611.01122)**
 
 Wireless channels exhibit complex spatial variations determined by the surrounding environment. By representing the environment with explicit Gaussian primitives carrying geometric and radio attributes, 3DGS provides a promising approach to reconstructing, predicting, and updating spatial wireless channels.
 
