@@ -20,6 +20,10 @@ If there are any omissions in the collection of the papers, please feel free to 
   Paper Authors: Jinya Zhang, Jiajia Guo, Chao-Kai Wen, Shi Jin
 
 ## Research Papers
+- **[MIMO-GS](https://arxiv.org/abs/2610.36880)** (Oct. 2026): MIMO-GS renders MIMO beam pair power maps via dual-sided projection and beam pair splatting for efficient multiuser beam management  
+  Paper Title: Spatial MIMO Channel Rendering: A 3D Gaussian Splatting Approach  
+  Paper Authors: Juntaek Han, Geonha Kim, Chaozheng Wen, Ahmed Alkhateeb, Jun Zhang, Jeonghun Park
+  
 - **[XBandGS](https://dl.acm.org/doi/abs/10.1145/3795866.3844449)** (Oct. 2026): A unified cross-band RF radiance field modeling framework built on 3DGS  
   Paper Title: Cross-Band RF Radiance Field Modeling via 3D Gaussian Splatting and Propagation Mixture-of-Experts  
   Paper Authors: Zechen Li, Hao Pan, Yu Lu, Yiheng Bian, Yongjian Fu, Yezhou Wang, Lanqing Yang, Guangtao Xue
